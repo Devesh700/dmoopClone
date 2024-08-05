@@ -26,14 +26,14 @@ const OndemandDevelopers = () => {
                     How our on-demand developer service can help grow
                 </h2>
                 <HeroCard
-                    image='/assets/developer-1.jpg'
+                    image='../.././assets/developer-1.jpg'
                     contents={[{
                         title: "Services That Drive Digital Evolution",
                         para: "Whether it’s web development, mobile app creation, e-commerce platforms, or custom software solutions, our on-demand developers possess the diverse skill set necessary for a seamless execution. From front-end design to back-end functionality, we cover every aspect, ensuring a harmonious user experience and optimized performance."
                     }]}
                     dir='ltr' />
                 <HeroCard
-                    image='/assets/developers-2.jpg'
+                    image='../.././assets/developers-2.jpg'
                     contents={[{
                         title: "Agile Development for Rapid Results",
                         para: "In the ever-evolving digital landscape, agility is key. Our developers embrace agile methodologies, enabling us to adapt swiftly to changing requirements and market dynamics. This approach ensures that your projects are delivered with efficiency and speed, keeping you ahead of the competition."
@@ -79,7 +79,7 @@ const OndemandDevelopers = () => {
         </div>
 
         <ProfileCard
-        image={"/assets/profile-4.jpg"}
+        image={"../.././assets/profile-4.jpg"}
         quote={"“The team quickly grasped our needs, providing top-notch solutions with a personal touch. Their agility and expertise transformed our vision into reality. A reliable partner for achieving outstanding results.”"}
         title={"Project Director"}
         name={"Alex"}

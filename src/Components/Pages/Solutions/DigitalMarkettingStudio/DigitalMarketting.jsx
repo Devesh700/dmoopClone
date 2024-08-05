@@ -26,7 +26,7 @@ const DigitalMarketting = () => {
                     How our marketing service can help grow your revenue
                 </h2>
                 <HeroCard
-                    image='/assets/digitalmarketting.webp'
+                    image='../.././assets/digitalmarketting.webp'
                     contents={[{
                         title: "Strategic Expertise",
                         para: "Our team of seasoned digital marketing experts doesn’t just follow trends; we set them. With years of experience in the ever-evolving digital landscape, we craft strategies that are tailored to your business’s unique needs, ensuring optimal results."
@@ -37,7 +37,7 @@ const DigitalMarketting = () => {
                     },]}
                     dir='ltr' />
                 <HeroCard
-                    image='/assets/digitalmarketting-2.webp'
+                    image='../.././assets/digitalmarketting-2.webp'
                     contents={[{
                         title: "Comprehensive Services",
                         para: "From SEO and content marketing to social media management and paid advertising, we offer a full spectrum of digital marketing services under one roof. This means a cohesive strategy that works seamlessly across all platforms."
@@ -86,7 +86,7 @@ const DigitalMarketting = () => {
         </div>
 
         <ProfileCard
-        image={"/assets/profile-2.webp"}
+        image={"../.././assets/profile-2.webp"}
         quote={"“DMOOP’s PPC service excels far beyond the competition thanks to their astute, specialized, and highly professional account managers.”"}
         title={"Director of Marketting"}
         name={"Lawyer's Direct"}

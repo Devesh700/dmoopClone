@@ -22,7 +22,7 @@ const Navbar = () => {
                 <div
                 className='icon rounded-circle w-60 overflow-hidden d-flex justify-content-center align-items-center border border-2'
                 >
-                    <img src='/assets/dmoop.png' alt='dmoop' 
+                    <img src='../.././assets/dmoop.png' alt='dmoop' 
                     width={"100%"} height={"100%"}/>
                 </div>
 

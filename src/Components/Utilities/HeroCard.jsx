@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Utilities.css"
-const HeroCard = ({dir="ltr",image="/assets/technology-studio-2.webp",contents=
+const HeroCard = ({dir="ltr",image="../.././assets/technology-studio-2.webp",contents=
 [{title:"Problem-Solving Through Tech Solutions",para:"We thrive on solving intricate problems using technology as our tool. Our solutions streamline processes, optimize workflows, and address challenges in unique and effective ways."},{title:"Agile Development Methodologies",para:"Embracing agile methodologies, we ensure quick iterations and collaboration, adapting to changing requirements and delivering incremental value throughout the development lifecycle."},]
 }) => {
   return (

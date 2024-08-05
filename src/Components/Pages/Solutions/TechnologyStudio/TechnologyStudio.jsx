@@ -25,7 +25,7 @@ const TechnologyStudio = () => {
                     HOW OUR TECH STUDIO CAN HELP GROW
                 </h2>
                 <HeroCard
-                    image='/assets/technology-studio-1.jpg'
+                    image='../.././assets/technology-studio-1.jpg'
                     contents={[{
                         title: "Tech Innovation for Diverse Industries",
                         para: "We specialize in developing groundbreaking technology solutions that cater to a wide range of industries, from healthcare to finance, manufacturing to entertainment."
@@ -36,7 +36,7 @@ const TechnologyStudio = () => {
                     },]}
                     dir='ltr' />
                 <HeroCard
-                    image='/assets/technology-studio-2.webp'
+                    image='../.././assets/technology-studio-2.webp'
                     contents={[{
                         title: "Problem-Solving Through Tech Solutions",
                         para: "We thrive on solving intricate problems using technology as our tool. Our solutions streamline processes, optimize workflows, and address challenges in unique and effective ways."
@@ -82,7 +82,7 @@ const TechnologyStudio = () => {
                 </div>
             </div>
             <ProfileCard
-            image={"/assets/priyank.webp"}
+            image={"../.././assets/priyank.webp"}
             quote={"“DMOOP tech service is light years ahead of the competition because of their intelligent, specialized and courteous account managers.”"}
             title="DIrector of Operations"
             name={"priyank"}/>

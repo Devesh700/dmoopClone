@@ -26,14 +26,14 @@ const Creativestudio = () => {
                     How our creative service can help grow your business
                 </h2>
                 <HeroCard
-                    image='/assets/creative-stidio-1.jpg'
+                    image='../.././assets/creative-stidio-1.jpg'
                     contents={[{
                         title: "Elevated Brand Identity",
                         para: "Standing out amidst the crowd is essential for business growth. Our creative services can help you establish a distinctive brand identity that sets you apart. We delve deep into understanding your business ethos, values, and market positioning. Leveraging this insight, we create designs that encapsulate your brand’s personality and communicate it cohesively across all touchpoints. A strong and consistent brand identity not only attracts customers but also instills trust and credibility. As your business expands, this identity becomes a beacon that guides customers back to you. With our creative services, you’re not just investing in design; you’re investing in a potent tool for fostering growth, customer loyalty, and a lasting presence in an ever-evolving business landscape."
                     }]}
                     dir='ltr' />
                 <HeroCard
-                    image='/assets/creative-studio-2.jpg'
+                    image='../.././assets/creative-studio-2.jpg'
                     contents={[{
                         title: "Strategic Visual Storytelling",
                         para: "In today’s dynamic marketplace, capturing your audience’s attention requires more than just a product or service – it demands a compelling narrative. Our creative services specialize in strategic visual storytelling. We meticulously craft designs that not only catch the eye but also convey your brand’s essence, values, and unique offerings. Whether it’s a captivating logo, a website that guides users seamlessly, or engaging social media visuals, our designs tell a story that resonates with your target audience. This not only drives brand recognition but also fosters an emotional connection that translates into customer loyalty and repeat business."
@@ -79,7 +79,7 @@ const Creativestudio = () => {
         </div>
 
         <ProfileCard
-        image={"/assets/profile-3.jpg"}
+        image={"../.././assets/profile-3.jpg"}
         quote={"“DMOOP service is light years ahead of the competition because of their intelligent, specialized and courteous account managers.”"}
         title={"Director of Marketting"}
         name={"Edurizon"}

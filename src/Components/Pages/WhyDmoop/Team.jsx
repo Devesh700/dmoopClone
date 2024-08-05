@@ -20,10 +20,10 @@ const Team = () => {
 
         <section className='col-md-5 position-relative'>
             <div className=' custom-w-500 rounded-5 overflow-hidden'>
-                <img src='/assets/team-image-1.jpg' width={"100%"} height={"100%"} alt='team-image'/>
+                <img src='../.././assets/team-image-1.jpg' width={"100%"} height={"100%"} alt='team-image'/>
             </div>
             <div className=' custom-w-200 second-image rounded-5 overflow-hidden'>
-                <img src='/assets/team-image-2.jpg' width={"100%"} height={"100%"} alt='team-image'/>
+                <img src='../.././assets/team-image-2.jpg' width={"100%"} height={"100%"} alt='team-image'/>
             </div>
         </section>
     </div>

@@ -13,7 +13,7 @@ const About = () => {
                 <p className=' fw-semibold'>
                     About us
                 </p>
-                <HeroCard image='/assets/abouthero.jpg'
+                <HeroCard image='../.././assets/abouthero.jpg'
                     contents={[{ title: "Digital solutions designed for your business" }]}
                     dir='rtl' />
             </div>
@@ -22,7 +22,7 @@ const About = () => {
                     At Dmoop.com, we are a dynamic Marketing and Technology agency committed to pushing boundaries and delivering innovative solutions. Our team combines creative flair with technical expertise to drive your brand’s success in the ever-evolving digital landscape.
                 </p>
 
-                <img src='/assets/about-hero-2.jpg' alt='about-hero' width={"100%"} className='rounded-5 custom-ap-2' />
+                <img src='../../.../.././assets/about-hero-2.jpg' alt='about-hero' width={"100%"} className='rounded-5 custom-ap-2' />
             </div>
 
             <div className=' col-md-10 mx-auto my-5 '>
@@ -61,12 +61,12 @@ const About = () => {
                     className=' fw-bold'>OUR CLIENTS</p>
                 <BrandsContainer
                     images={[
-                        "/assets/jockey-logo.png",
-                        "/assets/pizza-logo.png",
-                        "/assets/maple-logo.png",
-                        "/assets/Amar_Ujala-logo.png",
-                        "/assets/petmania-logo.svg",
-                        "/assets/unnamed-removebg-logo.png"]} />
+                        "../../.../.././assets/jockey-logo.png",
+                        "../../.../.././assets/pizza-logo.png",
+                        "../../.../.././assets/maple-logo.png",
+                        "../../.../.././assets/Amar_Ujala-logo.png",
+                        "../../.../.././assets/petmania-logo.svg",
+                        "../../.../.././assets/unnamed-removebg-logo.png"]} />
             </div>
             <Team/>
         </>

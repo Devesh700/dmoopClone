@@ -48,16 +48,16 @@ const Hero = () => {
         <div className=' d-flex justify-content-center align-items-center w-md-100 col-md-6 mt-3'>
           <div 
           className=' custom-w-40 bg-white custom-ap-7 m-3 rounded-5 overflow-hidden'>
-            <img src='/assets/developer-1.jpg' className=' img-fluid h-100' />
+            <img src='../../.../.././assets/developer-1.jpg' className=' img-fluid h-100' />
           </div>
           <div className=' custom-w-40'>
             <div 
             className=' w-100 bg-white custom-ap-7 m-3 rounded-5 overflow-hidden'>
-<img src='/assets/developer-1.jpg' className=' img-fluid h-100' />
+              <img src='../../.../.././assets/developer-1.jpg' className=' img-fluid h-100' />
             </div>
             <div 
             className=' w-100 bg-white custom-ap-7 m-3 rounded-5 overflow-hidden'>
-<img src='/assets/developer-1.jpg' className=' img-fluid h-100' />
+              <img src='../../.../.././assets/developer-1.jpg' className=' img-fluid h-100' />
             </div>
           </div>
         </div>

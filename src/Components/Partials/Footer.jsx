@@ -49,15 +49,15 @@ const Footer = () => {
                         </div>
                         <div 
                         className=' logo-container-2 py-4  custom-w-flex-2'>
-                            <img src="/assets/clutch.png" width={"100%"} height={"100%"} alt='logo' />
+                            <img src="../.././assets/clutch.png" width={"100%"} height={"100%"} alt='logo' />
                         </div>
                         <div 
                         className=' logo-container-2 py-4  custom-w-flex-2'>
-                            <img src="/assets/expertize.png" width={"100%"} height={"100%"} alt='logo' />
+                            <img src="../.././assets/expertize.png" width={"100%"} height={"100%"} alt='logo' />
                         </div>
                         <div 
                         className=' logo-container-2 py-4  custom-w-flex-2'>
-                            <img src="/assets/excellence.png" width={"100%"} height={"100%"} alt='logo' />
+                            <img src="../.././assets/excellence.png" width={"100%"} height={"100%"} alt='logo' />
                         </div>
                     </div>
                 </section>

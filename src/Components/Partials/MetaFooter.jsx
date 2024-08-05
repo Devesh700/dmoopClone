@@ -42,12 +42,12 @@ const MetaFooter = () => {
             <span className='small-box'></span>
             </p>
             <p>
-                <img src='/assets/clutch.svg'/>
+                <img src='../.././assets/clutch.svg'/>
                 &emsp; 4.9 Rating
             </p>
             </div>
             <div className=''>
-                <img src='/assets/BBB.svg'/>
+                <img src='../.././assets/BBB.svg'/>
             </div>
         </div>
       </section>

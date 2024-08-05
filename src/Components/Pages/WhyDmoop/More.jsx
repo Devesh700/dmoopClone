@@ -61,12 +61,12 @@ const More = () => {
       className=' col-md-10 mx-auto'>
         <BrandsContainer
       images={[
-      "/assets/jockey-logo.png",
-      "/assets/pizza-logo.png",
-      "/assets/maple-logo.png",
-      "/assets/Amar_Ujala-logo.png",
-      "/assets/petmania-logo.svg",
-      "/assets/unnamed-removebg-logo.png"]}/>
+      "../.././assets/jockey-logo.png",
+      "../.././assets/pizza-logo.png",
+      "../.././assets/maple-logo.png",
+      "../.././assets/Amar_Ujala-logo.png",
+      "../.././assets/petmania-logo.svg",
+      "../.././assets/unnamed-removebg-logo.png"]}/>
       </div>
     </>
   )

@@ -1,6 +1,6 @@
 import React from 'react'
 
-const BrandsContainer = ({ images = ["/assets/jockey-logo.png", ""] }) => {
+const BrandsContainer = ({ images = ["../.././assets/jockey-logo.png", ""] }) => {
     return (
         <section
             className=' d-flex flex-wrap justify-content-around gap-3 py-3 mx-auto'>
