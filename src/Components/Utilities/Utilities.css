@@ -1,0 +1,59 @@
+@media screen and (min-width:768px) {
+    .border-md-start{
+    border-left: 1px solid lightgray;
+}
+}
+@media screen and (max-width:768px) {
+    .col-md-3{
+      width: 100%;
+    }
+    #active{
+      max-width: 100%;
+    }
+}
+/* ID */
+#active{
+  background-color: orangered;
+  width: clamp(100%,360px,120%);
+  z-index: 1;
+}
+
+
+/* CLASSES */
+.cursor-pointer{
+  cursor: pointer;
+}
+.img-container{
+    aspect-ratio: 6/4.8;
+    border-radius: 1.5rem;
+    overflow: hidden;
+}
+
+
+
+
+
+.item-value {
+    padding: 0rem 1rem;
+  overflow: hidden;
+  height: 0rem;
+  transition: all 0.7s ease-in-out; 
+}
+
+.logo-container{
+  aspect-ratio: 13/10;
+}
+
+.animate-h {
+    padding: 1.5rem 1rem;
+    overflow: hidden;
+  height: 5rem; 
+  min-height: max-content !important;
+  max-height: max-content !important;
+  transition: all 0.7s ease-in-out;
+}
+
+.w-280{
+     aspect-ratio: 4/5;
+    width: clamp(280px,300px,90%);
+}
